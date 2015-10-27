@@ -23,7 +23,7 @@
 		<br /><hr /><br />
 
 		<h3>Objective</h3>
-		<p>Your goal is to get the administrator’s password by brute forcing. Bonus points for getting the other four user passwords!</p>
+		<p>Your goal is to get the administrator's password by brute forcing. Bonus points for getting the other four user passwords (such as "smithy", "pablo" and friends)!</p>
 
 		<br /><hr /><br />
 
