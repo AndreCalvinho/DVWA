@@ -29,7 +29,7 @@ if( isset( $_GET[ 'Login' ] ) ) {
 	}
 	else {
 		// Login failed
-		sleep( rand( 0, 3 ) );
+		sleep( rand( 0, 4 ) );
 		$html .= "<pre><br />Username and/or password incorrect.</pre>";
 	}
 
